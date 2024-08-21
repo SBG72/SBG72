@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning more about all abput computers!
 - 🌱 I’m currently learning how to use LinkedIn!
 - 💞️ I’m looking to collaborate on any projects that use my current skils or teach me new ones!
-- 📫 How to reach me- here or LinkedIn!
+- 📫 How to reach me- my email, sarabrigable@gmail.com !
