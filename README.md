@@ -1,13 +1,5 @@
 - 👋 Hi, I’m @SBG72
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SBG72/SBG72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--- 
-This is a comment
---->
+- 👀 I’m interested in learning more about all abput computers!
+- 🌱 I’m currently learning how to use LinkedIn!
+- 💞️ I’m looking to collaborate on any projects that use my current skils or teach me new ones!
+- 📫 How to reach me- here or LinkedIn!
