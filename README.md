@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SBG72
-- 👀 I’m interested in learning more about computers!
-- 🌱 I’m currently working on my programming skills!
-- 💞️ I’m looking to collaborate on any projects that use my current skills or teach me new ones!
+- 👋 Hi, I’m @SBG72, or Sara Gable!
+- 👀 I’m interested in learning more about the world around us, including health and safety, and how we can use software to improve that!
+- 🌱 I’m currently working on my programming skills such as C, C++, Java, HTML, CSS, and many more!
+- 💞️ I’m looking to collaborate on any projects that use my current skills or teach me new ones, including front or back-end development, database management, or improving functionality!
 - 📫 How to reach me- my email, sarabrigable@gmail.com !
